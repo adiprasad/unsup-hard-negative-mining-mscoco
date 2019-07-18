@@ -89,8 +89,8 @@ A few examples on the reduction in false positives achieved for the 'Dog' catego
 
 Baseline             |  Flickers as HN
 :-------------------:|:--------------------:
-![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame330_before.jpg)  |  ![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame330_after.jpg)
-![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame1548_before.jpg)  |  ![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame1548_after.jpg)
-![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame3156_before.jpg)  |  ![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame3156_after.jpg)
-![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame9195_before.jpg)  |  ![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame9195_after.jpg)
-![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame43837_before.jpg)  |  ![](https://people.cs.umass.edu/~aprasad/Detector_Results/dog_detector/images_iter_1/video1/hns_shown/frame43837_after.jpg)
+![](https://drive.google.com/uc?id=1zmkS2S1Q0jMBGUpx9wfdLu1JoWuQfLlC)  |  ![](https://drive.google.com/uc?id=1UAm8iDz2T-UT5iEGETVRtux374DwXGzL)
+![](https://drive.google.com/uc?id=16xJbEwOUDmuMAF7lmd18romTdvA0RiH2)  |  ![](https://drive.google.com/uc?id=1FSDV1S2OFxx_QKifGvfa_LxY-GaKtKwF)
+![](https://drive.google.com/uc?id=1wXehEPRQvwLEYeDkuF2BLwgjp3WtSsWm)  |  ![](https://drive.google.com/uc?id=1T8vgswRH-OQ4poDogo4e8h8pFhDDXKCJ)
+![](https://drive.google.com/uc?id=14vr9dpI9hJpLIxhjG5V3oVAUJhpFToC1)  |  ![](https://drive.google.com/uc?id=1NBWYc4chJNaI8LD8sKQw5cvMlgm4W-7N)
+![](https://drive.google.com/uc?id=1GYl2ZRUIwv_XlgyzLBCjBDja3st_h8EN)  |  ![](https://drive.google.com/uc?id=1wAARvrcA6-zoKq-dSk2wdSBT0nAcBxxj)
